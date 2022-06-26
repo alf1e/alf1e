@@ -5,5 +5,4 @@
 
 # 📖 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://blog.gek0.xyz/test/)
 <!-- BLOG-POST-LIST:END -->
