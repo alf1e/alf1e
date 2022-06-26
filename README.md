@@ -8,4 +8,5 @@
 
 # 📖 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I made my Github README.](https://blog.gek0.xyz/how-i-made-my-github-readme/)
 <!-- BLOG-POST-LIST:END -->
