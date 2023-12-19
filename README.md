@@ -8,5 +8,5 @@
 
 # 📖 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I made my Github README.](https://blog.gek0.xyz/how-i-made-my-github-readme/)
+- [Framework; What are my first impressions?](https://blog.itsmealfie0.com/framework-first-impressions/)
 <!-- BLOG-POST-LIST:END -->
