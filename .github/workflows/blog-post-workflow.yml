@@ -14,4 +14,4 @@ jobs:
       - name: Pull in ghost posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.gek0.xyz/rss/"
+          feed_list: "https://blog.itsmealfie0.com/rss/"
